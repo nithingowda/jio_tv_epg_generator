@@ -50,14 +50,7 @@ epg.xml.gz
 
 This file can be used with:
 
-* Jellyfin
-* Plex
-* Emby
-* Kodi
-* IPTV Players
-* Dispatcharr
-* Threadfin
-* TVHeadend
+
 * Any XMLTV-compatible application
 
 ## Notes
