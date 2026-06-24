@@ -1,2 +1,2 @@
-# jio_tv_epg_generator
+# indian_tv_epg_generator
 This python scrpit to generate epg
